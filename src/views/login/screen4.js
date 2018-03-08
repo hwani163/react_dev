@@ -15,7 +15,7 @@ export default class LoginScreen2 extends Component {
           style={styles.bgImage}
         >
           <Text style={styles.loginText}>
-            Login Screen 4
+            Fuck zz
           </Text>
         </ImageBackground>
       </View>
